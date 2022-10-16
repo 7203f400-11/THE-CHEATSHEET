@@ -1,2 +1,12 @@
 # THE-CHEATSHEET
-A python-based repo to effectively contain every possible function might be necessary for middle school math
+
+
+DESCRIPTION
+
+A python-based repo made to effectively contain everything you would need to cheat in 7-8th grade math,
+Please don't actually cheat with this. 
+
+
+PURPOSE
+
+A pet project and a github commit farm

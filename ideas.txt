@@ -1,0 +1,3 @@
+POTENTIAL COMMANDS TO INCLUDE
+- Gamma function with derivatives
+

@@ -1,0 +1,3 @@
+COMMANDS TO BE IMPLEMENTED
+ - Approximate sqrt to the greatest tenth
+ - Find if sqrt is rational
